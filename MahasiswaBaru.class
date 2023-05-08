@@ -1,0 +1,20 @@
+Êþº¾   > ?   uts_A11202113726/MahasiswaBaru   uts_A11202113721/Mahasiswa 
+asalSekolah Ljava/lang/String; <init> N(Ljava/lang/String;Ljava/lang/String;II[Ljava/lang/String;Ljava/lang/String;)V Code
+  
+    <(Ljava/lang/String;Ljava/lang/String;II[Ljava/lang/String;)V	     LineNumberTable LocalVariableTable this  Luts_A11202113721/MahasiswaBaru; nim nama semester I usia krs [Ljava/lang/String; 
+infoMahasiswa ()V
+    	  !    java/lang/System " # out Ljava/io/PrintStream;  % java/lang/StringBuilder ' Asal Sekolah : 
+ $ )   * (Ljava/lang/String;)V
+ $ , - . append -(Ljava/lang/String;)Ljava/lang/StringBuilder;
+ $ 0 1 2 toString ()Ljava/lang/String;
+ 4 6  5 java/io/PrintStream 7 *  println 	ikutOspek ()Z	  ;   
+StackMapTable 
+SourceFile MahasiswaBaru.java !                  	   €      *+,· 
+*µ 
+±           
+ 
+ 
+      H                                                  	   P     *· ² » $Y&· (*´ 
+¶ +¶ /¶ 3±                             8 9  	   G     *´ :  ¬¬              
+              <    
+  =    >

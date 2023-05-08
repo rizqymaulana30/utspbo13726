@@ -1,0 +1,17 @@
+Êþº¾   > ?   "uts_A11202113726/MahasiswaTransfer   uts_A11202113721/MahasiswaBaru asalUniversitas Ljava/lang/String; <init> `(Ljava/lang/String;Ljava/lang/String;II[Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V Code
+  
+    N(Ljava/lang/String;Ljava/lang/String;II[Ljava/lang/String;Ljava/lang/String;)V	     LineNumberTable LocalVariableTable this $Luts_A11202113721/MahasiswaTransfer; nama nim semester I usia krs [Ljava/lang/String; 
+asalSekolah 
+infoMahasiswa ()V
+    	   "  ! java/lang/System # $ out Ljava/io/PrintStream;  & java/lang/StringBuilder ( Asal Universitas : 
+ % *   + (Ljava/lang/String;)V
+ % - . / append -(Ljava/lang/String;)Ljava/lang/StringBuilder;
+ % 1 2 3 toString ()Ljava/lang/String;
+ 5 7  6 java/io/PrintStream 8 +  println 	ikutOspek ()Z
+  < 9 : 
+SourceFile MahasiswaTransfer.java !                  	   Œ      *+,· 
+* µ 
+±             
+   	    R                                                        	   P     *· ² » %Y'· )*´ 
+¶ ,¶ 0¶ 4±           
+                  9 :  	   /     *· ;¬                         =    >
